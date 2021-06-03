@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull newes from Wells in Somerset-shire vvherein is declared how the cavaliers were beaten out of the said town by those heroick gentlemen and members of the Parliament : the names of the members of the Parl. are these: Sir Francis Popham, Sir Iohn Horner, M. Richard Cole, M. Strowd, M. Pine, Sir Edward Hungerford, Sir Edward Gainton : the names of the chiefe cavaliers are these: Marquesse of Hartford, Lord Paulet, Sir Ralph Hopton, Sir Francis Dorrington, Master Smith : likewise a true relation how they came to Bristow with an intent to have fortified themselves but were opposed by the wel-affected party of the city : with a relation of the taking of Northampton by the cavaliers on Tuesday the ninth of August, 1642 : whereunto is annexed the Parliaments resolution concerning the said cavaliers.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25381</idno><idno type="EEBO-CITATION">12257444</idno>
+  <idno type="VID">197464</idno>
+  <idno type="EEBO-PROQUEST">2240971227</idno>
+  
+            <idno type="STC">Wing J1152</idno>
+            <idno type="OCLC">12257444</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E111, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull newes from Wells in Somerset-shire vvherein is declared how the cavaliers were beaten out of the said town by those heroick gentlemen and members of the Parliament : the names of the members of the Parl. are these: Sir Francis Popham, Sir Iohn Horner, M. Richard Cole, M. Strowd, M. Pine, Sir Edward Hungerford, Sir Edward Gainton : the names of the chiefe cavaliers are these: Marquesse of Hartford, Lord Paulet, Sir Ralph Hopton, Sir Francis Dorrington, Master Smith : likewise a true relation how they came to Bristow with an intent to have fortified themselves but were opposed by the wel-affected party of the city : with a relation of the taking of Northampton by the cavaliers on Tuesday the ninth of August, 1642 : whereunto is annexed the Parliaments resolution concerning the said cavaliers.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Fowler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 12, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Northampton (England) --  History, Military.</term>
+               <term type="geographic_name">Wells (England) --  History, Military.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197464:1"/>
+            <p>Joyfull Newes from WELLS IN Somerset-Shire.</p>
+            <p>VVherein is declared how the Ca<g ref="char:EOLhyphen"/>valiers were beaten out of the said Town, by those Heroick Gentlemen and Members of the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <list>
+                  <head>The names of the Members of the Parl. are these.</head>
+                  <item>Sir Francis Popham.</item>
+                  <item>Sir Iohn Horner.</item>
+                  <item>M. Richard Cole.</item>
+                  <item>M. Strowd.</item>
+                  <item>M. Pine.</item>
+                  <item>Sir Edward Hungerford.</item>
+                  <item>Sir Edward Gainton.</item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <head>The names of the chiefe Ca<g ref="char:EOLhyphen"/>valiers are these.</head>
+                  <item>Marquesse of Hartford.</item>
+                  <item>Lord Paulet.</item>
+                  <item>Sir Ralph Hopton.</item>
+                  <item>Sir Francis Dorrington.</item>
+                  <item>Master Smith.</item>
+               </list>
+            </p>
+            <p>Likewise a true relation how they came to <hi>Bristow,</hi> with an intent to have fortified themselves, but were opposed by the wel-affected party of the City.</p>
+            <p>With a relation of the taking of <hi>Northampton</hi> by the Ca<g ref="char:EOLhyphen"/>valiers, on Tuesday, the ninth of August, 1642.</p>
+            <p>Whereunto is annexed the Parliaments Resolution concerning the said Cavaliers.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and published.</p>
+                        <closer>
+                           <signed>Joh. Browne, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Fowler.</hi> Aug. 12. 1642.</p>
+            <pb facs="tcp:197464:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:197464:2"/>
+            <head>
+               <hi>Joyfull Newes</hi> FROM WELLS IN Somerset-shire.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving arrived at my journey<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end to <hi>Taunton-Deane,</hi> under the command of Lieutenant <hi>Howard,</hi> with whom I am entertained Trumpeter to a Troop of Horse, the next day I intended (my duty bin<g ref="char:EOLhyphen"/>ding me thereunto) to take my Horse and ride to <hi>Wells,</hi> to my Fathers: To which end I went to my Captaine, and told him my intent, withall desiring his licence for foure dayes; who told me that he would goe along with me to <hi>Wells,</hi> for it was in great distresse, the Cavaliers ha<g ref="char:EOLhyphen"/>ving made it their randevouz, and used several-rigorous
+<pb n="2" facs="tcp:197464:3"/> oppressions against those that did any way oppose them. Wherefore he immediately caused me to sound my Trumpet through <hi>Taun<g ref="char:EOLhyphen"/>ton-Deane;</hi> a Corporall giving notice that it was his desire that all Gentlemen or others that were possest of any Horse, or Horse<g ref="char:EOLhyphen"/>mans Armes, should instantly put themselves into a Posture of Defence, and repaire to him.</p>
+            <p>Which was speedily effected; for within three houres there were with my Captaines owne Horses, and those that were sent in, neere an hundred and twenty. Which being put in order by Lieutenant <hi>Howard,</hi> we im<g ref="char:EOLhyphen"/>mediately marched towards <hi>Wells,</hi> where be<g ref="char:EOLhyphen"/>ing arrived, wee found the Countrey all in Armes, and their Towne besieged on every fide. On the hill comming off <hi>Mendip</hi> from <hi>Bristow-</hi>ward, there was Sir <hi>Francis Popham,</hi> and Sir <hi>Edward Hungerford,</hi> with sixe thousand armed men, and two Peeces of Ordnance, which were mounted against the Bishops Palace.</p>
+            <p>Betweene <hi>Glastenbury</hi> and <hi>Wells</hi> there was Sir <hi>Edward Gainton,</hi> and Sir <hi>John Horner,</hi> with eight thousand men, or thereabouts.</p>
+            <p>On the hill on the East side between <hi>Skipton-Mallard</hi> and <hi>Wells,</hi> there was Master <hi>Pine,</hi> Master <hi>Cole,</hi> and Master <hi>Strowd,</hi> with three thousand more, and two Peeces which they had moun<g ref="char:EOLhyphen"/>ted
+<pb n="3" facs="tcp:197464:3"/> to command any part of the town, where occasion should require.</p>
+            <p>The sight of our horse gave a little more life to them, they having very few horses, and the Cavaliers having at the least three hundred.</p>
+            <p>Wherefore Sir <hi>Edward Hungerford</hi> after a courteous welcome, entreated us to make good the passage from <hi>Wells,</hi> on the North-east of the Towne, which goes up to the Downes to meet with <hi>Skipton mallet</hi> Roade, which leads to <hi>Bristow,</hi> which was accordingly performed by us: the Army being in order, Sir <hi>Francis Popham</hi> caused some shots to be made from <hi>Mendip-Hill</hi> against the <hi>Bishops</hi> Pallace, which (by reason of the strength thereof) they had made their Quarters, it being a place of a considerable strength, and moted round about.</p>
+            <p>Neverthelesse the report of our Ordnance made the Cavaliers bestirre themselves, seeing themselves surrounded by the Country, and knowing the Towne was no place of strength or security either to oppose us, or to secure themselves from us, wherefore they made as if they intended to force a passage towards <hi>Glasten<g ref="char:EOLhyphen"/>bury,</hi> which caused all our parties of Foot to presse up to secure those passages, which they seeing, with their utmost speed at a passage be<g ref="char:EOLhyphen"/>tweene the wood and us, trooped out upon us, fronting us boldly, which well they might, they being in number much greater, and more ex<g ref="char:EOLhyphen"/>perienced
+<pb n="4" facs="tcp:197464:4"/> men, both in Horsemanship, and use of Arms, our men being raw, untutored, and unexperienced both in the use of their Armes, and Horsemanship, our Foot likewise being so farre behind, by reason of the mistake, that it was impossible to reach them, besides our Ord<g ref="char:EOLhyphen"/>nance which was planted on the Hill, lying so high, could not command them, they keeping just under the bottome of the said Hill, being sheltred by the Wood.</p>
+            <p>Neverthelesse, our Captaine (neither esteem<g ref="char:EOLhyphen"/>ing their number, or weighing the danger that might happen by his attempting to intercept a Party so strong, and pusued by almost inevitable ruine, and perpetuall destruction) gave com<g ref="char:EOLhyphen"/>mand that wee should give Fire upon them, which was with unexpected alacrity, and un<g ref="char:EOLhyphen"/>daunted courage performed: They did the like at us, but such their haste was, that they could not stay to see the execution, nor doe we know whether we did any against them, for it was not policie to pursue them, they having the greater number. Besides, had wee engaged our selves beyond the bounds or suc<g ref="char:EOLhyphen"/>cour of our Forces, wee might have been cut off, and they had cause to laugh at our de<g ref="char:EOLhyphen"/>struction.</p>
+            <p>The Towne being thus quit of them, wee drew our Forces in, where wee were enter<g ref="char:EOLhyphen"/>tained with great joy; but they made for
+<pb n="4" facs="tcp:197464:4"/>
+               <hi>Bristow,</hi> being confident that they should have gained a party there, buty being arrived, they found the City up in Armes, and some in Am<g ref="char:EOLhyphen"/>bush, who suffered to passe quietly without discovering of themselves: But at their back returne, being pursued by the Commanders of the City, they intercepted them, and gave them a broad side, putting them to a shrewd confusion.</p>
+            <p>Some Prisoners they have taken, but what they are, is not certaine: onely it is reported that Marquesse <hi>Hartford</hi> and the Lord <hi>Paulet</hi> are taken Prisoners: Others say, Sir <hi>Ralph Hopton;</hi> but of this there is no cettainty: for those that escaped, they fled to my Lord <hi>Strange,</hi> who lay within ten miles with an Armie, in the Borders of Wales.</p>
+            <p>This day being the eighth of <hi>August,</hi> wee received severall Votes of both Houses of Parliament, with their Resolution, concern<g ref="char:EOLhyphen"/>ing the said Cavaleers, namely, that Sir <hi>Ralph Hopton,</hi> Master <hi>Thomas Smith,</hi> Sir <hi>Fer<g ref="char:EOLhyphen"/>dinando Gorges,</hi> and Sir <hi>Francis Bodington,</hi> be forthwith sent for as Delinquents.</p>
+            <p>The Country stands generally for the King and Parliament: You would not imagine now confidently and willingly the Countrey take Armes. Although Sir <hi>Ralph Hopton</hi> be a Gen<g ref="char:EOLhyphen"/>tleman very well beloved in the whole Coun<g ref="char:EOLhyphen"/>try, yet so highly are they incensed against him
+<pb n="6" facs="tcp:197464:5"/> for this last action, that from <hi>Evercrutch</hi> his owne Tenants and Servants came against him and cry him downe now, more then ever they extolled him when the Knights of the Shire were chosen, my Lo: <hi>Paulet</hi> is hated of all men.</p>
+            <p>And Mr. <hi>Smith</hi> is pittied, he being seduced by the other great ones, and it is believed that if he could fairely retreate, he would be no lon<g ref="char:EOLhyphen"/>ger of that faction.</p>
+            <p>It is reported for truth, that the City of <hi>North<g ref="char:EOLhyphen"/>hampton</hi> is taken by the Cavaliers, but by what means I cannot resolve you.</p>
+            <p>These are the chiefe of our proceedings, I make no question but you heare more then is true, at my next opportunity you shall heare from me, give this inclosed token to my wife.</p>
+            <p>Ordered that this be printed and published</p>
+            <closer>
+               <signed>Iohn Browne, Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
